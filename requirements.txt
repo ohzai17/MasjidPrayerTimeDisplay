@@ -1,0 +1,4 @@
+pygame
+arabic-reshaper
+python-bidi
+hijri-converter
